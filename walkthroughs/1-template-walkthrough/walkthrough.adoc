@@ -1,4 +1,4 @@
-= Template Walkthrough
+= Some walkthrough
 
 // This is a template meant to be used as a starting point for walkthrough development
 
@@ -7,6 +7,10 @@
 
 // Add your own task here
 
+Pretty incredible walkthrough in fairness.
+
 === Step
 
 // Add steps to your task
+
+You, my friend, are done.
